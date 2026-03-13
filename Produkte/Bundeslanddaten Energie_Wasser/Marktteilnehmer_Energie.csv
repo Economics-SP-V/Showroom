@@ -1,9 +1,9 @@
-,Unnamed: 0,Schleswig-Holstein,Hamburg,Niedersachsen,Bremen,Nordrhein-Westfalen,Hessen,Rheinland-Pfalz,Baden-Württemberg,Bayern,Saarland,Berlin,Brandenburg,Mecklenburg-Vorpommern,Sachsen,Sachsen-Anhalt,Thüringen,Gesamtergebnis,LDEW,LG BB,LG Mitteldeutschland,LG Nord
-0,Gasnetzbetrieb,44,1,66,2,122,47,34,107,106,17,1,28,22,37,32,30,696,81,29,99,135
-1,Gaslieferung,56,12,93,4,209,65,46,161,149,20,12,30,25,49,32,35,998,111,42,116,190
-2,Stromerzeugung,45,23,102,8,162,69,60,182,284,27,32,50,31,46,37,38,1196,129,82,121,209
-3,Stromnetzbetrieb,41,2,67,4,115,58,50,125,235,19,4,30,23,37,31,32,873,108,34,100,137
-4,Stromlieferung,63,19,104,6,226,78,72,191,298,24,35,33,28,55,35,41,1308,150,68,131,220
-5,Fernwärmeerzeugung,34,5,47,3,93,39,23,103,105,9,7,44,22,38,34,31,637,62,51,103,111
-6,Fernwärmenetzbetrieb,27,2,27,4,63,26,15,79,84,8,2,33,21,41,30,26,488,41,35,97,81
-7,Fernwärmelieferung,34,4,41,4,80,38,19,99,101,11,6,36,23,43,32,33,604,57,42,108,106
+Sparte_Wertschoepfung,Schleswig-Holstein,Hamburg,Niedersachsen,Bremen,Nordrhein-Westfalen,Hessen,Rheinland-Pfalz,Baden-Württemberg,Bayern,Saarland,Berlin,Brandenburg,Mecklenburg-Vorpommern,Sachsen,Sachsen-Anhalt,Thüringen,Gesamtergebnis,LDEW,LG BB,LG Mitteldeutschland,LG Nord
+Gasnetzbetrieb,44,1,66,2,122,47,34,107,106,17,1,28,22,37,32,30,696,81,29,99,135
+Gaslieferung,56,12,93,4,209,65,46,161,149,20,12,30,25,49,32,35,998,111,42,116,190
+Stromerzeugung,45,23,102,8,162,69,60,182,284,27,32,50,31,46,37,38,1196,129,82,121,209
+Stromnetzbetrieb,41,2,67,4,115,58,50,125,235,19,4,30,23,37,31,32,873,108,34,100,137
+Stromlieferung,63,19,104,6,226,78,72,191,298,24,35,33,28,55,35,41,1308,150,68,131,220
+Fernwärmeerzeugung,34,5,47,3,93,39,23,103,105,9,7,44,22,38,34,31,637,62,51,103,111
+Fernwärmenetzbetrieb,27,2,27,4,63,26,15,79,84,8,2,33,21,41,30,26,488,41,35,97,81
+Fernwärmelieferung,34,4,41,4,80,38,19,99,101,11,6,36,23,43,32,33,604,57,42,108,106
